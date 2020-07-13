@@ -1,3 +1,4 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+This is what I added to my very first github homepage.
+I typed the content I want on my homepage here as suggested by github bot.
