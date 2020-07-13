@@ -1,9 +1,9 @@
 ---
-title: "Welcome to WDMLX's website"
+title: "Welcome-to-my-website"
 date: 2020-07-14
 ---
 
----
+
 title: "Welcome to WDMLX's website"
 author: WDMLX
 email: wdmlx@domain.com
@@ -18,4 +18,4 @@ github_username:  wdmlx # DO NOT include the @ character, or else the build will
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minima
----
+
